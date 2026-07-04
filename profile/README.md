@@ -69,3 +69,15 @@ If you'd like to contribute, please open an issue or submit a pull request.
 Made with ❤️ by the Heyrexa Team
 
 </div>
+---
+
+## 📬 Contact
+
+- 🌐 Website: https://heyrexa.com
+- 📧 Email: info@heyrexa.com
+
+---
+
+## ⭐ Mission
+
+Our mission is to make AI accessible, practical, and useful for everyone through powerful automation and intelligent assistants.
